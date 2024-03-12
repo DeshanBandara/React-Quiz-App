@@ -1,0 +1,42 @@
+export const data = [
+    {
+        question: 'Which device is required for the internet connection?',
+        option1: 'Modem',
+        option2: 'Router',
+        option3: 'Lan Cable',
+        option4: 'Pen Drive',
+        ans: 2,
+    },
+    {
+        question: 'What is the highest mountain in Sri Lanka?',
+        option1: 'Sigiriya',
+        option2: 'Nakals',
+        option3: 'Piduruthalagala',
+        option4: 'Ewarast',
+        ans: 3,
+    },
+    {
+        question: 'Which device is required for the internet connection?',
+        option1: 'Modem',
+        option2: 'Router',
+        option3: 'Lan Cable',
+        option4: 'Pen Drive',
+        ans: 2,
+    },
+    {
+        question: 'Which device is required for the internet connection?',
+        option1: 'Modem',
+        option2: 'Router',
+        option3: 'Lan Cable',
+        option4: 'Pen Drive',
+        ans: 2,
+    },
+    {
+        question: 'Which device is required for the internet connection?',
+        option1: 'Modem',
+        option2: 'Router',
+        option3: 'Lan Cable',
+        option4: 'Pen Drive',
+        ans: 2,
+    },
+]
