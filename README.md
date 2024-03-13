@@ -53,7 +53,3 @@ This is a simple quiz application built using React.js, HTML, CSS, and JavaScrip
 
 Contributions are welcome! Please feel free to submit pull requests or open issues if you encounter any problems or have suggestions for improvements.
 
-## License
-
-Copyright (c) [2024] [Deshan Bandara]
-
