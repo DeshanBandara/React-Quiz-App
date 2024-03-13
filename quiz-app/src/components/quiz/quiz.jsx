@@ -36,8 +36,8 @@ const quiz = () => {
 
     const next = () => {
       if (lock===true) {
-        if (index === data.length -1) {
-          setResult (true);
+        if (index === data.length -1) { //Check That index is equal to the last question (data.length-1) is last question index
+          setResult (true); // Set result to true when the last question is answered, before last question the set result is false
           return 0;
         }
         setIndex(++index);
