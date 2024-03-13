@@ -45,12 +45,11 @@ This is a simple quiz application built using React.js, HTML, CSS, and JavaScrip
 
 ## Screenshots
 
-
+![1](https://github.com/DeshanBandara/React-Quiz-App/assets/126126025/1b993e5b-f645-412f-ba55-b38a4f7606b6)
+![2](https://github.com/DeshanBandara/React-Quiz-App/assets/126126025/09f19f95-fe1b-41de-90a7-8f0eaf3bab95)
+![3](https://github.com/DeshanBandara/React-Quiz-App/assets/126126025/fdd1cf42-c944-487a-9865-206b10ba3835)
 
 ## Contributing
 
 Contributions are welcome! Please feel free to submit pull requests or open issues if you encounter any problems or have suggestions for improvements.
 
-## License
-
-Copyright (c) [2024] [Deshan Bandara]
