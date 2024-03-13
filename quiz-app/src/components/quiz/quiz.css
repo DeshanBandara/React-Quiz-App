@@ -51,12 +51,12 @@
     font-size: 18px;
 }
 
-.correct {
+.container .correct {
     background: #b6f3da;
     border-color: #00d397;
 }
 
-.wrong {
+.container .wrong {
     background: #f2c2c2;
     border-color: #e30909;
 }
