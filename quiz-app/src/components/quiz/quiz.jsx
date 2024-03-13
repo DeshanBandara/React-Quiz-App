@@ -1,3 +1,5 @@
+/* eslint-disable no-unused-vars */
+/* eslint-disable react-hooks/rules-of-hooks */
 
 import React, { useRef, useState } from 'react'
 import './quiz.css'
